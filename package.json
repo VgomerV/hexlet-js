@@ -2,7 +2,7 @@
   "name": "hexlet",
   "version": "1.0.0",
   "type": "module",
- "description": "Мой первый проект на Хекслете",
+  "description": "Мой первый проект на Хекслете",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "prettier": "^3.2.5"
   }
 }
