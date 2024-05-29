@@ -1,6 +1,7 @@
-console.log("Hello, Hexlet!");
-import _ from "lodash";
-console.log(_.last(["one", "tow"]));
+import _ from 'lodash';
 import getBirthYear from './src/index.js';
 
-console.log(getBirthYear(age));
+console.log('Hello, Hexlet!');
+console.log(_.last(['one', 'tow']));
+
+console.log(getBirthYear(37));
